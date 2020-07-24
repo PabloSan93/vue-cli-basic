@@ -10,7 +10,7 @@
 import Banner from '@/components/general/Banner.vue';
 
 export default {
-  name: 'Home',
+  name: 'Contact',
   components: {
     Banner,
   },
